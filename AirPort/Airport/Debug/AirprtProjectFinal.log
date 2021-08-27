@@ -1,0 +1,6 @@
+﻿  AirprtProjectFinal.cpp
+C:\Users\arczi\source\repos\AirprtProjectFinal\AirprtProjectFinal\AirprtProjectFinal.cpp(235,24): warning C4154: deletion of an array expression; conversion to pointer supplied
+C:\Users\arczi\source\repos\AirprtProjectFinal\AirprtProjectFinal\AirprtProjectFinal.cpp(236,24): warning C4154: deletion of an array expression; conversion to pointer supplied
+C:\Users\arczi\source\repos\AirprtProjectFinal\AirprtProjectFinal\AirprtProjectFinal.cpp(325,13): warning C4101: 'Id_pracownika': unreferenced local variable
+C:\Users\arczi\source\repos\AirprtProjectFinal\AirprtProjectFinal\AirprtProjectFinal.cpp(325,7): warning C4101: 'wiek': unreferenced local variable
+  AirprtProjectFinal.vcxproj -> C:\Users\arczi\source\repos\AirprtProjectFinal\Debug\AirprtProjectFinal.exe

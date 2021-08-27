@@ -1,0 +1,7 @@
+1,a,a,1,a,a,1,1,1,Jest zaszczepiony;
+3,a,ssssss,121,ssssssss,ssssss,121,12,12,Jest zaszczepiony;
+1,a,a,12,a,a,12,1,2,Jest zaszczepiony;
+21,asd,asd,123,asd,as,123,1,22,Jest zaszczepiony;
+1,asa,asas,1,as,1,1,1,1,Jest zaszczepiony;
+3,as,as,12,as,as,12,1,1,Jest zaszczepiony;
+43,asdf,asdf,123,asdf,as,12,12,12,Jest zaszczepiony;
