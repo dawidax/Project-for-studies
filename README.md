@@ -1,2 +1,2 @@
 # Project-for-studies
-AirPort 
+projects, exercises done during studies
